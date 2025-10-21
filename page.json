@@ -1,0 +1,147 @@
+{
+  "brand": {
+    "name": "ProDental Tech",
+    "accent": "#1E90FF"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Expert Dental Technician Services for Dentists",
+      "subheadline": "Precision-crafted dental restorations and appliances, delivered on time to support your practice.",
+      "primaryCta": {
+        "label": "Request a Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "url",
+        "name": "Dental Technician at Work",
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=800&q=80"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Custom Dental Prosthetics",
+          "desc": "Expertly crafted crowns, bridges, and dentures tailored to your patients’ needs for optimal fit and aesthetics."
+        },
+        {
+          "title": "Fast Turnaround Times",
+          "desc": "Reliable and efficient service ensures your dental restorations are delivered on schedule, every time."
+        },
+        {
+          "title": "High-Quality Materials",
+          "desc": "We use only premium materials to guarantee durable, natural-looking results for every case."
+        },
+        {
+          "title": "Digital Workflow Support",
+          "desc": "Accepting digital impressions and files for seamless integration with your practice’s technology."
+        },
+        {
+          "title": "Personalized Service",
+          "desc": "Direct communication and case consultations to ensure the best outcomes for your patients."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Dr. Emily Carter",
+          "quote": "Outstanding craftsmanship and reliability. My patients are always happy with the results."
+        },
+        {
+          "name": "Dr. Michael Lee",
+          "quote": "Consistently delivers high-quality dental restorations on time. Highly recommended!"
+        },
+        {
+          "name": "Dr. Sarah Patel",
+          "quote": "Professional, detail-oriented, and easy to work with. A trusted partner for my practice."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Single Case",
+          "price": "$120",
+          "period": "per case",
+          "features": [
+            "Crown, bridge, or denture fabrication",
+            "3-day turnaround",
+            "Quality materials",
+            "Case tracking updates"
+          ]
+        },
+        {
+          "name": "Monthly Retainer",
+          "price": "$950",
+          "period": "per month",
+          "features": [
+            "Up to 10 cases/month",
+            "Priority turnaround",
+            "Dedicated support",
+            "Free adjustments"
+          ]
+        },
+        {
+          "name": "Premium Partnership",
+          "price": "Custom",
+          "period": "per month",
+          "features": [
+            "Unlimited cases",
+            "Same-day rush available",
+            "On-site consultations",
+            "Custom material options"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What services do you offer to dentists?",
+          "a": "I provide a full range of dental laboratory services, including crowns, bridges, dentures, implants, and custom dental appliances."
+        },
+        {
+          "q": "How do I submit a case or order?",
+          "a": "You can submit cases by contacting me directly through the website or by phone. I’ll provide you with instructions for sending impressions and digital files."
+        },
+        {
+          "q": "What is your turnaround time for dental restorations?",
+          "a": "Standard turnaround time is typically 5-7 business days, but rush services are available upon request."
+        },
+        {
+          "q": "Do you offer digital dentistry solutions?",
+          "a": "Yes, I accept digital impressions and work with the latest CAD/CAM technology to ensure precise and efficient results."
+        },
+        {
+          "q": "How can I get pricing information?",
+          "a": "Contact me for a detailed price list or a custom quote based on your specific needs."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Partner with a Skilled Dental Technician Today",
+      "cta": {
+        "label": "Contact Me",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Get in Touch for Reliable Dental Lab Services",
+      "placeholder": "Enter your email or phone number",
+      "button": "Request a Callback"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Your Dental Lab. Serving dentists with precision-crafted dental solutions."
+    }
+  ]
+}
